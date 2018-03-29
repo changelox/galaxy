@@ -115,7 +115,7 @@
 ### unassigned
 
 -   Release 2.3.1
-
+    no further information available
 
 
 ## [2.3.0] - 2017-11-03
@@ -193,7 +193,6 @@
     Trying to run deployment to QA
 -   Fixes for QA/Production deployment
 -   Fix ELASTICSEARCH parameter in production settings
--   Fix docker login for TravisCI scripts
 -   Fix docker login for TravisCI scripts
 
 ### removed
@@ -300,10 +299,6 @@
 -   Persist list settings to query params instead of local storage
     Sending PR to get a code review from @jimi-c before merging in. Thanks!
 -   Latest Development for v1.0.0
--   Merging latest development.
--   Merge latest development
--   Latest development
--   Release 1.0.0
 
 
 
